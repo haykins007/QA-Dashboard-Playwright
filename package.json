@@ -1,0 +1,15 @@
+{
+  "name": "qa-dashboard-playwright",
+  "version": "1.0.0",
+  "description": "Playwright automation project for QA dashboard",
+  "main": "index.js",
+  "scripts": {
+    "test": "npx playwright test",
+    "report": "npx playwright show-report"
+  },
+  "author": "QA Candidate",
+  "license": "ISC",
+  "devDependencies": {
+    "@playwright/test": "^1.42.0"
+  }
+}
