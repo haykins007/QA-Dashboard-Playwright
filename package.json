@@ -1,11 +1,23 @@
 {
+<<<<<<< HEAD
   "name": "qa-dashboard-complete",
   "version": "1.0.0",
   "type": "module",
+=======
+  "name": "qa-dashboard-playwright",
+  "version": "1.0.0",
+  "description": "Playwright automation project for QA dashboard",
+  "main": "index.js",
+>>>>>>> 0bbb606fffa4286e884fc3bf9391c67f4bdb0fbb
   "scripts": {
     "test": "npx playwright test",
     "report": "npx playwright show-report"
   },
+<<<<<<< HEAD
+=======
+  "author": "QA Candidate",
+  "license": "ISC",
+>>>>>>> 0bbb606fffa4286e884fc3bf9391c67f4bdb0fbb
   "devDependencies": {
     "@playwright/test": "^1.42.0"
   }
